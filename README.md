@@ -5,10 +5,11 @@ There are two jugs, a-litres jug and b-litres jug (a, b are positive integers). 
 
 Input
 
-> Line 1: contains positive integers a,   b,  c  (1 <= a, b, c <= 900)
+    Line 1: contains positive integers a,   b,  c  (1 <= a, b, c <= 900)
 
 Output
-  write the number of steps or write -1 (if no solution found)
+
+    write the number of steps or write -1 (if no solution found)
 
 Example
 
