@@ -15,7 +15,9 @@ Example
 
 
 Input
+
 6  8  4
 
 Output
+
 4
