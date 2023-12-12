@@ -1,4 +1,6 @@
 # Project1
+# Sinh viên thực hiện: Vũ Văn Hùng
+# Giảng viên hướng dẫn: ThS.Nguyễn Đức Tiến
 ## Week 3 - WATER JUGS
 ### Description
 There are two jugs, a-litres jug and b-litres jug (a, b are positive integers). There is a pump with unlimited water. Given a positive integer c, how to get exactly c litres.
